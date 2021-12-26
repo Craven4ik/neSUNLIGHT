@@ -428,8 +428,8 @@ body {
 }
 
 .map {
-    max-width: 400px;
-    max-height: 400px;
+    max-width: 300px;
+    max-height: 300px;
     margin: 0 auto;
     padding-top: 30px;
 }
